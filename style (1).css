@@ -1,0 +1,78 @@
+body {
+    background-image: url(sand-bubbler-crabs-near-seashells.jpg)
+}
+.navbar {
+     background-color: #ffffff;
+}
+.navbar-brand, .nav-link {
+     color: #4e4249;
+     font-size: 2rem;
+}
+.hero-section {
+     color: white;
+     text-align: center;
+     padding: 100px 20px;
+}
+.hero-title {
+     font-size: 4rem;
+     font-weight: bold;
+     color: rgb(87, 56, 68);
+     font-family: 'Times New Roman', Times, serif;
+}
+.hero-text {
+     font-size: 1.5rem;
+     margin: 20px 0;
+}
+.hero-btn {
+     padding: 10px 20px;
+     font-size: 1.2rem;
+     background-color: #061b30;
+     color: #ffffff;
+     border: none;
+}
+.hero-btn:hover {
+     background-color: #061b30;
+}
+.card {
+     border: none;
+     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+     transition: transform 0.3s;
+     margin: 50px;
+     background-color: rgb(250, 216, 217);
+}
+.card:hover {
+     transform: translateY(-10px);
+}
+.card-title {
+     color: #ffffff;
+     font-weight: bold;
+     font-size: 1.5rem;
+     font-family: 'Courier New', Courier, monospace;
+}
+footer {
+     background-color: #061b30;
+     color: #ffffff;
+     padding: 20px 0;
+}
+footer p {
+     margin: 0;
+}
+ .text-primary {
+     color: #061b30;
+}
+.dropdown-item {
+     text-align: center;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: large;
+}
+.btn-link {
+     color: #64525a;
+     font-size: 1.1rem;
+     font-family: 'Courier New', Courier, monospace;
+     font-style: italic;
+     text-decoration: underline;
+}
+.card-text {
+     color: rgb(161, 112, 131);
+     font-family: 'Courier New', Courier, monospace;
+}
